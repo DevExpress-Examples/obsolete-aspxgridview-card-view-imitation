@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebApplication164/Default.aspx) (VB: [Default.aspx](./VB/WebApplication164/Default.aspx))
+<!-- default file list end -->
 # OBSOLETE - How to create a Card View with editing capabilities using ASPxGridView
 
 
