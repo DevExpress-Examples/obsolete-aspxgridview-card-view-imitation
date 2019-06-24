@@ -4,6 +4,9 @@
 * [Default.aspx](./CS/WebApplication164/Default.aspx) (VB: [Default.aspx](./VB/WebApplication164/Default.aspx))
 <!-- default file list end -->
 # OBSOLETE - How to create a Card View with editing capabilities using ASPxGridView
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1278)**
+<!-- run online end -->
 
 
 <p><strong>Starting with v15.2</strong>, we provide the <a href="https://www.devexpress.com/Subscriptions/New-2015-2.xml#aspnet"><strong>ASPxCardView</strong></a> control, which supports CRUD operations out of the box:<br><a href="https://demos.devexpress.com/ASPxCardViewDemos/Editing/EditModes.aspx">ASPxCardView - Edit Modes</a></p>
